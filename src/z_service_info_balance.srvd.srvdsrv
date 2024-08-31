@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Vista Informe Balance'
+define service Z_SERVICE_INFO_BALANCE {
+  expose Z_INFORME_BALANCE_TERCEROS_HBT;
+}

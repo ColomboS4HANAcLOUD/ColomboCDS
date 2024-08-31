@@ -1,0 +1,4 @@
+@EndUserText.label: 'Servicio para obtener los asientos sin tercero'
+define service Z_ASIENTOS_SIN_TERCERO {
+  expose Z_ASIENTOS_SIN_TERCERO;
+}
